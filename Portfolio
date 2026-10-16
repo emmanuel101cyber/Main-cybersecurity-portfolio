@@ -6,12 +6,11 @@ Performed network reconnaissance using Nmap in Kali Linux to identify open ports
 
 Tools:Kali Linux, Nmap
 
-🔗 [View Project on GitHub](https://github.com/emmanuel101cyber/Network-Reconnaissance-Using-Nmap/tree/5c6d1c8a167a17ae6adc8498d0ea80b74353f075/01-network-reconnaissance)
-
+https://github.com/emmanuel101cyber/Network-Reconnaissance-Using-Nmap/tree/5c6d1c8a167a17ae6adc8498d0ea80b74353f075/01-network-reconnaissance
  2. HTTP Security Headers Analysis Using curl
 
 Inspected HTTP response headers using curl to understand common web security controls and their purposes.
 
 Tools: Kali Linux, curl
 
-🔗 [View Project on GitHub](https://github.com/emmanuel101cyber/02-http-security-headers)
+
