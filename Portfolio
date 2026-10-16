@@ -19,7 +19,7 @@ Performed network reconnaissance against an authorized test host using Nmap in K
 
 Tools: Nmap, Kali Linux
 
-[View Project]
+https://github.com/emmanuel101cyber/Network-Reconnaissance-Using-Nmap/tree/5c6d1c8a167a17ae6adc8498d0ea80b74353f075/01-network-reconnaissance
 
  2. HTTP Security Headers Analysis Using curl
 
@@ -27,7 +27,7 @@ Inspected HTTP response headers from a publicly accessible website to understand
 
 Tools: curl, Kali Linux
 
-[View Project]
+
 
 
 Professional Goal
