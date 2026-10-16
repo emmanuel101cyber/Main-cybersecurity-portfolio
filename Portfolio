@@ -1,0 +1,43 @@
+ Cybersecurity Portfolio
+
+Welcome to my cybersecurity portfolio!
+
+This repository serves as a central collection of my hands-on cybersecurity projects, technical documentation, and practical learning experiences.
+
+ About Me
+
+I'm passionate about understanding how systems and networks work, identifying security weaknesses, and learning how to protect digital assets against cyber threats.
+
+I use practical projects and controlled testing environments to develop my technical knowledge and problem-solving skills.
+
+
+Completed Cybersecurity Projects
+
+ 1. Network Reconnaissance Using Nmap
+
+Performed network reconnaissance against an authorized test host using Nmap in Kali Linux. Identified open ports and associated services, interpreted scan results, and documented security observations.
+
+Tools: Nmap, Kali Linux
+
+[View Project]
+
+ 2. HTTP Security Headers Analysis Using curl
+
+Inspected HTTP response headers from a publicly accessible website to understand security controls such as Strict-Transport-Security, Content-Security-Policy, X-Content-Type-Options, and X-Frame-Options.
+
+Tools: curl, Kali Linux
+
+[View Project]
+
+
+Professional Goal
+
+My goal is to develop strong practical cybersecurity skills, build a portfolio of documented security projects, and contribute to protecting systems, networks, and web applications.
+
+Ethical Commitment
+
+All security testing documented in this portfolio is intended for authorized targets, controlled labs, and educational purposes. I believe in responsible disclosure, ethical testing, and respecting the privacy and security of others.
+
+---
+
+Thank you for visiting my cybersecurity portfolio!
