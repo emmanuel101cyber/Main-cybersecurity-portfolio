@@ -12,11 +12,6 @@ https://github.com/emmanuel101cyber/Network-Reconnaissance-Using-Nmap/tree/5c6d1
 Inspected HTTP response headers using curl to understand common web security controls and their purposes.
 
 Tools: Kali Linux, curl
-# 🛡️ Cybersecurity Projects Portfolio
-
-Welcome to my cybersecurity portfolio! I am a Cybersecurity student building practical skills in network reconnaissance, web security, Python programming, and security analysis.
-
-This repository serves as a central directory for my hands-on cybersecurity projects.
 
 2. HTTP Security Headers Analysis Using curl
 
